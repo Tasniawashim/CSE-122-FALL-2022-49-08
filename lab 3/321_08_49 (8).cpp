@@ -1,4 +1,3 @@
-// 112A	Pet-ya and Strings
 #include<iostream>
 using namespace std ;
 int main ()
