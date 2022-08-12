@@ -1,4 +1,3 @@
-// 282A Bit++
 #include<iostream>
 #include<string>
 using namespace std;
