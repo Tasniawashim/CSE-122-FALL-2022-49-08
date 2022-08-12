@@ -1,4 +1,3 @@
-//71-Way Too Long Words
 #include<iostream>
 #include<string.h>
 using namespace std ;
