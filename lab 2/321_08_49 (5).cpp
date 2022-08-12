@@ -1,4 +1,3 @@
-//50A DOMINO PILING
 #include<iostream>
 using namespace std ;
 int main()
